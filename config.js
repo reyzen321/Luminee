@@ -14,7 +14,7 @@ global.gopay = '083148375193'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Lumine-md'
-global.gc = 'https://chat.whatsapp.com/BxrDMvfLeKTHtvAWKHWZbZ'
+global.gc = 'https://chat.whatsapp.com/JQt8UkAG4FjATRNRVqoFb2'
 global.web = 'https://shinz-06.github.io' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
